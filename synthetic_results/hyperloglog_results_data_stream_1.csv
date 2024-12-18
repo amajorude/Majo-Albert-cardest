@@ -1,4 +1,4 @@
-m,mean_estimate,actual_unique,error,relative_error
+m,estimate number unique words,real number unique words,error,relative error
 8,1256,909,347,0.38173817381738173
 16,1342,909,433,0.47634763476347636
 32,885,909,24,0.026402640264026403
